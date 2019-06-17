@@ -80,7 +80,7 @@
       <TextField fx:id="tfFindCondition" layoutX="14.0" layoutY="301.0" prefHeight="29.0" prefWidth="153.0" promptText="검색조건" />
       <Button fx:id="btnFindByName" layoutX="94.0" layoutY="337.0" mnemonicParsing="false" prefHeight="29.0" prefWidth="65.0" text="이름" />
       <Button fx:id="btnFindByAddress" layoutX="14.0" layoutY="337.0" mnemonicParsing="false" prefHeight="29.0" prefWidth="65.0" text="주소" />
-      <Label layoutX="252.0" layoutY="525.0" prefHeight="21.0" prefWidth="360.0" text="Copyright. @2019 유응구 (2004121000)" textFill="#422bb5">
+      <Label layoutX="252.0" layoutY="525.0" prefHeight="21.0" prefWidth="360.0" text="Copyright. @2019 이태림 (201612404)" textFill="#422bb5">
          <font>
             <Font name="System Italic" size="18.0" />
          </font>
